@@ -114,16 +114,6 @@
             key-positions = <0 1>;
         };
 
-        i_combo {
-            bindings = <&i_macro>;
-            key-positions = <24 7>;
-        };
-
-        p_combo {
-            bindings = <&p_macro>;
-            key-positions = <24 9>;
-        };
-
         Shift {
             bindings = <&kp LEFT_SHIFT>;
             key-positions = <22 23>;
